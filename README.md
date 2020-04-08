@@ -53,4 +53,4 @@ select idref from (
 ```
 And if we have more than one repetition? In this case, we can create a function on the database, that iteract this query while we have repetitions on database.
 
-Hope that helps, and improvements are always welcome.
+Hope that helps.
